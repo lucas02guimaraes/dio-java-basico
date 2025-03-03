@@ -28,17 +28,17 @@ public class MinhaClasse {
          * 
          * // Exemplo
          */
-        int idade = 23;
-        double altura = 1.62;
+        // int idade = 23;
+        // double altura = 1.62;
         // Dog spike; //Observe que aqui a variável spike não tem valor
 
-        String meuNome = "Lucas";
+        // String meuNome = "Lucas";
 
-        int anoFabricacao = 2022;
+        // int anoFabricacao = 2022;
 
-        boolean verdadeira = false;
+        // boolean verdadeira = false;
 
-        anoFabricacao = 2018;
+        // anoFabricacao = 2018;
 
         String primeiroNome = "Lucas";
         String segundoNome = "Guimarães";
